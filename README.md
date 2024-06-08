@@ -11,6 +11,7 @@ I'm currently a graduate student at Florida International University, working to
 * ✉️  You can contact me at [justinshields321@gmail.com](mailto:justinshields321@gmail.com)
 * 🧠  I'm learning Python Data Structures & Algorithms
 * 🤝  I'm open to collaborating on Cloud Computing projects, Open source contributions, and Python development
+* 🔭  I’m currently working on [LeetCode Problems](https://leetcode.com/u/JustinDean/)
 
 ### Skills
 
