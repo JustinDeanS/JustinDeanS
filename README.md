@@ -30,4 +30,9 @@ I'm currently a graduate student at Florida International University, working to
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/JustinDeanS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinDeanS&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<a href="https://github.com/JustinDeanS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinDeanS&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- <a href="https://github.com/JustinDeanS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinDeanS&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+
+
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
