@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Justin Shields
 ======================================================================================================================================
 
-Software Engineer
+Python Developer
 -----------------
 
 I'm currently a graduate student at Florida International University, working towards my Master's in Computer Science. I hold a Bachelor's in Computer Science and am passionate about leveraging my skills to advance my career.
